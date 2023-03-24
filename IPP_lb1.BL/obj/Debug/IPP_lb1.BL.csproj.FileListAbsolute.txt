@@ -1,0 +1,10 @@
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.BL\bin\Debug\IPP_lb1.BL.exe.config
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.BL\bin\Debug\IPP_lb1.BL.exe
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.BL\bin\Debug\IPP_lb1.BL.pdb
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.BL\obj\Debug\IPP_lb1.BL.csproj.AssemblyReference.cache
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.BL\obj\Debug\IPP_lb1.BL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.BL\obj\Debug\IPP_lb1.BL.Properties.Resources.resources
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.BL\obj\Debug\IPP_lb1.BL.csproj.GenerateResource.cache
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.BL\obj\Debug\IPP_lb1.BL.csproj.CoreCompileInputs.cache
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.BL\obj\Debug\IPP_lb1.BL.exe
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.BL\obj\Debug\IPP_lb1.BL.pdb
