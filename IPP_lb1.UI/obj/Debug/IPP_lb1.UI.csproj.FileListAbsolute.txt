@@ -1,0 +1,15 @@
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.UI\bin\Debug\IPP_lb1.UI.exe.config
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.UI\bin\Debug\IPP_lb1.UI.exe
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.UI\bin\Debug\IPP_lb1.UI.pdb
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.UI\bin\Debug\IPP_lb1.BL.exe
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.UI\bin\Debug\IPP_lb1.BL.pdb
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.UI\bin\Debug\IPP_lb1.BL.exe.config
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.UI\obj\Debug\IPP_lb1.UI.csproj.AssemblyReference.cache
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.UI\obj\Debug\IPP_lb1.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.UI\obj\Debug\IPP_lb1.UI.Form1.resources
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.UI\obj\Debug\IPP_lb1.Properties.Resources.resources
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.UI\obj\Debug\IPP_lb1.UI.csproj.GenerateResource.cache
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.UI\obj\Debug\IPP_lb1.UI.csproj.CoreCompileInputs.cache
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.UI\obj\Debug\IPP_lb1.UI.csproj.CopyComplete
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.UI\obj\Debug\IPP_lb1.UI.exe
+C:\Users\Dimchik\source\repos\RiderProjects\IPP_lb1\IPP_lb1.UI\obj\Debug\IPP_lb1.UI.pdb

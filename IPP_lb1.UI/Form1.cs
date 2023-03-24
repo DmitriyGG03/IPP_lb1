@@ -27,6 +27,8 @@ namespace IPP_lb1.UI
                 new UIThread(tb_FThread, tb_FThreadState, tb_FThreadTime),
                 new UIThread(tb_SThread, tb_SThreadState, tb_SThreadTime)
             });
+            pnl_FPriority.Enabled = true;
+            pnl_SPriority.Enabled = true;
         }
 
         private void rb_FThread_CheckedChanged(object sender, EventArgs e)

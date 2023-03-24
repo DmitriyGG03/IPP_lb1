@@ -44,18 +44,18 @@
             this.tb_SThread = new System.Windows.Forms.TextBox();
             this.tb_FThread = new System.Windows.Forms.TextBox();
             this.rb_FThread1 = new System.Windows.Forms.RadioButton();
-            this.pnt_FPriority = new System.Windows.Forms.Panel();
+            this.pnl_FPriority = new System.Windows.Forms.Panel();
             this.label3 = new System.Windows.Forms.Label();
             this.rb_FThread2 = new System.Windows.Forms.RadioButton();
             this.rb_FThread3 = new System.Windows.Forms.RadioButton();
-            this.panel1 = new System.Windows.Forms.Panel();
+            this.pnl_SPriority = new System.Windows.Forms.Panel();
             this.label4 = new System.Windows.Forms.Label();
             this.rb_SThread2 = new System.Windows.Forms.RadioButton();
             this.rb_SThread3 = new System.Windows.Forms.RadioButton();
             this.rb_SThread1 = new System.Windows.Forms.RadioButton();
             this.pnl_threadsData.SuspendLayout();
-            this.pnt_FPriority.SuspendLayout();
-            this.panel1.SuspendLayout();
+            this.pnl_FPriority.SuspendLayout();
+            this.pnl_SPriority.SuspendLayout();
             this.SuspendLayout();
             // 
             // label1
@@ -207,17 +207,18 @@
             this.rb_FThread1.UseVisualStyleBackColor = true;
             this.rb_FThread1.CheckedChanged += new System.EventHandler(this.rb_FThread_CheckedChanged);
             // 
-            // pnt_FPriority
+            // pnl_FPriority
             // 
-            this.pnt_FPriority.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pnt_FPriority.Controls.Add(this.label3);
-            this.pnt_FPriority.Controls.Add(this.rb_FThread2);
-            this.pnt_FPriority.Controls.Add(this.rb_FThread3);
-            this.pnt_FPriority.Controls.Add(this.rb_FThread1);
-            this.pnt_FPriority.Location = new System.Drawing.Point(28, 184);
-            this.pnt_FPriority.Name = "pnt_FPriority";
-            this.pnt_FPriority.Size = new System.Drawing.Size(125, 153);
-            this.pnt_FPriority.TabIndex = 4;
+            this.pnl_FPriority.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pnl_FPriority.Controls.Add(this.label3);
+            this.pnl_FPriority.Controls.Add(this.rb_FThread2);
+            this.pnl_FPriority.Controls.Add(this.rb_FThread3);
+            this.pnl_FPriority.Controls.Add(this.rb_FThread1);
+            this.pnl_FPriority.Enabled = false;
+            this.pnl_FPriority.Location = new System.Drawing.Point(28, 184);
+            this.pnl_FPriority.Name = "pnl_FPriority";
+            this.pnl_FPriority.Size = new System.Drawing.Size(125, 153);
+            this.pnl_FPriority.TabIndex = 4;
             // 
             // label3
             // 
@@ -251,17 +252,18 @@
             this.rb_FThread3.UseVisualStyleBackColor = true;
             this.rb_FThread3.CheckedChanged += new System.EventHandler(this.rb_FThread3_CheckedChanged);
             // 
-            // panel1
+            // pnl_SPriority
             // 
-            this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel1.Controls.Add(this.label4);
-            this.panel1.Controls.Add(this.rb_SThread2);
-            this.panel1.Controls.Add(this.rb_SThread3);
-            this.panel1.Controls.Add(this.rb_SThread1);
-            this.panel1.Location = new System.Drawing.Point(231, 184);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(125, 153);
-            this.panel1.TabIndex = 5;
+            this.pnl_SPriority.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pnl_SPriority.Controls.Add(this.label4);
+            this.pnl_SPriority.Controls.Add(this.rb_SThread2);
+            this.pnl_SPriority.Controls.Add(this.rb_SThread3);
+            this.pnl_SPriority.Controls.Add(this.rb_SThread1);
+            this.pnl_SPriority.Enabled = false;
+            this.pnl_SPriority.Location = new System.Drawing.Point(231, 184);
+            this.pnl_SPriority.Name = "pnl_SPriority";
+            this.pnl_SPriority.Size = new System.Drawing.Size(125, 153);
+            this.pnl_SPriority.TabIndex = 5;
             // 
             // label4
             // 
@@ -310,16 +312,16 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(384, 349);
-            this.Controls.Add(this.panel1);
-            this.Controls.Add(this.pnt_FPriority);
+            this.Controls.Add(this.pnl_SPriority);
+            this.Controls.Add(this.pnl_FPriority);
             this.Controls.Add(this.pnl_threadsData);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Multithreaded application";
             this.pnl_threadsData.ResumeLayout(false);
             this.pnl_threadsData.PerformLayout();
-            this.pnt_FPriority.ResumeLayout(false);
-            this.panel1.ResumeLayout(false);
+            this.pnl_FPriority.ResumeLayout(false);
+            this.pnl_SPriority.ResumeLayout(false);
             this.ResumeLayout(false);
         }
 
@@ -338,14 +340,14 @@
         private System.Windows.Forms.Button bt_start;
 
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Panel pnl_SPriority;
         private System.Windows.Forms.RadioButton rb_SThread2;
         private System.Windows.Forms.RadioButton rb_SThread3;
         private System.Windows.Forms.RadioButton rb_SThread1;
 
         private System.Windows.Forms.Label label3;
 
-        private System.Windows.Forms.Panel pnt_FPriority;
+        private System.Windows.Forms.Panel pnl_FPriority;
         private System.Windows.Forms.RadioButton rb_FThread3;
         private System.Windows.Forms.RadioButton rb_FThread2;
 
