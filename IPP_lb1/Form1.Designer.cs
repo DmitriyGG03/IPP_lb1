@@ -90,6 +90,7 @@
             this.bt_start.TabIndex = 1;
             this.bt_start.Text = "Start";
             this.bt_start.UseVisualStyleBackColor = true;
+            this.bt_start.Click += new System.EventHandler(this.bt_start_Click);
             // 
             // tb_SThread
             // 
@@ -158,6 +159,7 @@
             this.rb_FThread2.TabStop = true;
             this.rb_FThread2.Text = "Medium";
             this.rb_FThread2.UseVisualStyleBackColor = true;
+            this.rb_FThread2.CheckedChanged += new System.EventHandler(this.rb_FThread2_CheckedChanged);
             // 
             // rb_FThread3
             // 
@@ -168,6 +170,7 @@
             this.rb_FThread3.TabStop = true;
             this.rb_FThread3.Text = "Highest";
             this.rb_FThread3.UseVisualStyleBackColor = true;
+            this.rb_FThread3.CheckedChanged += new System.EventHandler(this.rb_FThread3_CheckedChanged);
             // 
             // panel1
             // 
@@ -200,6 +203,7 @@
             this.rb_SThread2.TabStop = true;
             this.rb_SThread2.Text = "Medium";
             this.rb_SThread2.UseVisualStyleBackColor = true;
+            this.rb_SThread2.CheckedChanged += new System.EventHandler(this.rb_SThread2_CheckedChanged);
             // 
             // rb_SThread3
             // 
@@ -210,6 +214,7 @@
             this.rb_SThread3.TabStop = true;
             this.rb_SThread3.Text = "Highest";
             this.rb_SThread3.UseVisualStyleBackColor = true;
+            this.rb_SThread3.CheckedChanged += new System.EventHandler(this.rb_SThread3_CheckedChanged);
             // 
             // rb_SThread1
             // 
@@ -220,6 +225,7 @@
             this.rb_SThread1.TabStop = true;
             this.rb_SThread1.Text = "Lowest";
             this.rb_SThread1.UseVisualStyleBackColor = true;
+            this.rb_SThread1.CheckedChanged += new System.EventHandler(this.rb_SThread1_CheckedChanged);
             // 
             // Form1
             // 
